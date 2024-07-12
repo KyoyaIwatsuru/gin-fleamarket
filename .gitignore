@@ -13,3 +13,6 @@ tmp
 
 # pdf
 *.pdf
+
+# log
+.DS_Store
